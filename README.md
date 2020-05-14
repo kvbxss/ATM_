@@ -1,5 +1,5 @@
 # ATM_
-Balance : 5000000 $
+
 
 # What it is?
 
